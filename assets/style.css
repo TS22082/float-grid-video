@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+}
+
+header {
+  height: 10vh;
+  background-color: aquamarine;
+}
+
+main {
+  min-height: 80vh;
+  background-color: whitesmoke;
+}
+
+.float-container {
+  height: 80vh;
+  background-color: red;
+}
+
+.box1 {
+  height: 50%;
+  width: 50%;
+  background-color: blueviolet;
+  float: left;
+}
+
+.box2 {
+  height: 50%;
+  width: 50%;
+  background-color: yellowgreen;
+  float: left;
+}
+
+.box3 {
+  height: 50%;
+  width: 50%;
+  background-color: grey;
+  float: left;
+}
+
+.box4 {
+  height: 50%;
+  width: 50%;
+  background-color: peru;
+  float: left;
+}
+
+footer {
+  height: 10vh;
+  background-color: aquamarine;
+}
